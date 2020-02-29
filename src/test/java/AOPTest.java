@@ -10,7 +10,8 @@ public class AOPTest {
     @Test
     public void print(){
         MathCalculator mathCalculator = applicationContext.getBean(MathCalculator.class);
-        mathCalculator.div(1,1);
+        mathCalculator.div(1,0);//错误测试
+        System.out.println("git 更新测试");
     }
 
     @Test
