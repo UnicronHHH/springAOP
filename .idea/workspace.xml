@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01725c87-2456-4f1f-adcc-2c277eec0364" name="Default Changelist" comment="" />
+    <list default="true" id="01725c87-2456-4f1f-adcc-2c277eec0364" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AOPTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AOPTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +95,17 @@
       <option name="presentableId" value="Default" />
       <updated>1582989267294</updated>
       <workItem from="1582989271077" duration="1068000" />
-      <workItem from="1582993327243" duration="1682000" />
+      <workItem from="1582993327243" duration="1996000" />
+      <workItem from="1583060797480" duration="728000" />
     </task>
+    <task id="LOCAL-00001" summary="添加错误测试">
+      <created>1582995215871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582995215871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,15 +126,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
+    <MESSAGE value="添加错误测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加错误测试" />
   </component>
 </project>
